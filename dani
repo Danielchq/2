@@ -3,4 +3,4 @@
 http://192.168.1.2:8080/1.ogg
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" name="caracol: (ʜᴅ)" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", RCN
-http://192.168.1.2:8081/1.ogg
+http://192.168.1.2:8082/caracol.ogg
